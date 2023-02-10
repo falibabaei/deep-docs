@@ -24,7 +24,7 @@ Courses
 * `Google Machine Learning Crash Course <https://developers.google.com/machine-learning/crash-course>`__
 * `Machine Learning Mastery <https://machinelearningmastery.com/start-here/>`__
 * `DAIR ML YouTube Courses <https://github.com/dair-ai/ML-YouTube-Courses>`__
-
+* `DStanford CS230: Deep Learning (2018) <https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb>`__
 
 
 Datasets
