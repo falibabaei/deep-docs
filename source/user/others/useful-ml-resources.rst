@@ -24,6 +24,8 @@ Courses
 * `Google Machine Learning Crash Course <https://developers.google.com/machine-learning/crash-course>`__
 * `Machine Learning Mastery <https://machinelearningmastery.com/start-here/>`__
 * `DAIR ML YouTube Courses <https://github.com/dair-ai/ML-YouTube-Courses>`__
+* ` Introduction to CNN for Visual Recognition Courses <https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1>`__
+
 
 
 
@@ -41,6 +43,7 @@ Some tools to help you getting started creating your dataset.
 * `superintendent <https://github.com/janfreyberg/superintendent>`__ - ipywidget-based interactive labelling tool for your data.
 * `Roboflow <https://roboflow.com/annotate>`__ - only free is your dataset is public
 * `Labelbox <https://labelbox.com/>`__ - paid tool
+* `VGG Image Annotator <https://www.robots.ox.ac.uk/~vgg/software/via/>`__ - free tool
 
 
 Find a dataset
@@ -53,6 +56,13 @@ If you don't have any data, try find an open dataset that suits you.
 * `DataHub <https://datahub.io/collections>`__
 * `Kaggle <https://www.kaggle.com/>`__
 * `Paperwithcode Datasets <https://paperswithcode.com/datasets>`__
+* `Crop Image Datasets <https://dataverse.harvard.edu/dataverse/airlabug;jsessionid=975552c1a3afce9fad9154c5c164>`__
+* `field images of maize annotated with disease symptoms <https://link.springer.com/article/10.1186/s13104-018-3548-6?utm_source=getftr&utm_medium=getftr&utm_campaign=getftr_pilot>`__
+* `PlantVillage  <https://plantvillage.psu.edu/>`__
+* `Open Library for Earth Observations Machine Learning  <https://mlhub.earth/?gclid=CjwKCAiA85efBhBbEiwAD7oLQNd787rASy6iNFX9l-3LyVWRM6mJGdqAC5PztQf575sJPJ2_bCcQaBoCffsQAvD_BwE>`__
+
+
+
 
 
 Explore your dataset
