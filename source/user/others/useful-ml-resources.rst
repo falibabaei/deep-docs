@@ -53,7 +53,7 @@ If you don't have any data, try find an open dataset that suits you.
 * `DataHub <https://datahub.io/collections>`__
 * `Kaggle <https://www.kaggle.com/>`__
 * `Paperwithcode Datasets <https://paperswithcode.com/datasets>`__
-
+* `Enabling AI in agrifood. <https://edenlibrary.ai/>`__
 
 Explore your dataset
 ^^^^^^^^^^^^^^^^^^^^
